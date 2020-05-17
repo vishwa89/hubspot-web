@@ -149,6 +149,7 @@ li {
   padding: 22px 15px;
   display: block;
   margin-bottom: 20px;
+  pointer-events: none !important;
 }
 
 .list-box .number {
